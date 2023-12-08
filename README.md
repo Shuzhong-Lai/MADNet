@@ -13,6 +13,7 @@ Fusing textual features and non-textual features
 ## 3.For Visualization
 
 We use Eigen-grad-cam method to plot the attention of model on image.
+
 Redder the area, more attention the model pay.
 
 For Normal label group
