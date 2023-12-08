@@ -2,22 +2,29 @@
 ## "Detection of potential anxiety in social media based on multimodal fusion with deep learning methods" has received by BIBM-2023 as regular paper.
 This is the Pytorch implementation of MADNet mentioned by paper.
 
-## MADNet Architecture
+## 1.MADNet Architecture
 Three modalities input : text, image, behavior
-![MADNet Architecture](MADNet.png)
+<img src='./fig/MADNet.png' style='zoon:60%;' />
 
-## MAI Fusion Method
+## 2.MAI Fusion Method
 Fusing textual features and non-textual features
-![MAI Fusion Method](MAI.png)
+<img src='./fig/MAI.png' style='zoon:60%;' />
 
-## For Visualization
+## 3.For Visualization
+
 We use Eigen-grad-cam method to plot the attention of model on image.
 Redder the area, more attention the model pay.
-![Visualization](CAM.png)
 
-## Result
-![Compare experiment](Exp1.png)
-![Ablation experiment](Exp2.png)
+For Normal label group
+
+<img src='./fig/Normal.png' style='zoon:80%;' />
+
+For Anxiety label group
+
+<img src='./fig/Anxiety.png' style='zoon:80%;' />
+
+## 4.Cite
+Please read our origin paper to gain more details. If you have any question, feel free to contact with us!
 
 
 
