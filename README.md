@@ -26,6 +26,16 @@ For Anxiety label group
 
 ## 4.Cite
 Please read our origin paper to gain more details. If you have any question, feel free to contact with us!
+```
+@inproceedings{lai2023detection,
+  title={Detection of potential anxiety in social media based on multimodal fusion with deep learning methods},
+  author={Lai, Shuzhong and Li, Zepeng},
+  booktitle={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={560--566},
+  year={2023},
+  organization={IEEE}
+}
+```
 
 
 
